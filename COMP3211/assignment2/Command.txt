@@ -1,0 +1,19 @@
+python 20945880_problem1.py -p puzzle_1.txt -H 1 -o output_11.txt
+python 20945880_problem1.py -p puzzle_1.txt -H 2 -o output_12.txt
+python 20945880_problem1.py -p puzzle_1.txt -H 4 -o output_14.txt
+
+python 20945880_problem1.py -p puzzle_2.txt -H 1 -o output_21.txt
+python 20945880_problem1.py -p puzzle_2.txt -H 2 -o output_22.txt
+python 20945880_problem1.py -p puzzle_2.txt -H 4 -o output_24.txt
+
+python 20945880_problem1.py -p puzzle_3.txt -H 1 -o output_31.txt
+python 20945880_problem1.py -p puzzle_3.txt -H 2 -o output_32.txt
+python 20945880_problem1.py -p puzzle_3.txt -H 4 -o output_34.txt
+
+python 20945880_problem1.py -p puzzle_4.txt -H 1 -o output_41.txt
+python 20945880_problem1.py -p puzzle_4.txt -H 2 -o output_42.txt
+python 20945880_problem1.py -p puzzle_4.txt -H 4 -o output_44.txt
+
+python 20945880_problem1.py -p puzzle_5.txt -H 1 -o output_51.txt
+python 20945880_problem1.py -p puzzle_5.txt -H 2 -o output_52.txt
+python 20945880_problem1.py -p puzzle_5.txt -H 4 -o output_54.txt
